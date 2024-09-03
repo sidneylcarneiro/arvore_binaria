@@ -1,3 +1,5 @@
+# python "D:\Github\arvore_binaria\arvore_binaria.py"
+
 class BinaryTree:
     def __init__(self, key=None):
         self.leftchild = None
